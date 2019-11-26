@@ -1,0 +1,46 @@
+.horizonhead{
+    background-color:white;
+    border:none;
+    margin-bottom: 0px;
+    border-radius:0px;
+    height: 15rem;
+
+}
+ .ghana{ position: relative;
+ 	left: 500px;
+ 	height: 20px;
+ 	bottom: 50px;
+}
+ .kenya{ position: relative;
+ 	left: 550px;
+ 	height: 20px;
+ 	top:-70px;
+ 	width: 32px;
+ }
+ .naija{
+ 	position: relative;
+ 	left: 600px;
+ 	height: 19px;
+ 	bottom: 90px;
+ 	
+}
+.about{
+	font-size:20px;
+}
+.image3{
+	width: 1140px;
+	height: 40rem;
+}
+.footer{
+	background-color: gray;
+
+}
+.brown{
+	color:tomato red;
+
+}
+.green{color: red;
+}
+.white{
+	color:white;
+}
